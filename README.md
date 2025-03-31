@@ -1,4 +1,6 @@
 NPM start for front end and backend folders after npm install for both front end and backend folders , navigate to backend, frontend, hit npm start
+
+
 🔧 Environment Setup
 The backend/ folder requires a .env file to function properly. For security reasons, this file is not included in the repository.
 
