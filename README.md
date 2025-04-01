@@ -1,13 +1,8 @@
 ![Screenshot 2025-04-01 000410](https://github.com/user-attachments/assets/cb1e65a5-9818-4138-bb23-776168fbbe11)
 ![image](https://github.com/user-attachments/assets/88573add-2913-43ef-a7b1-1fa2f93e6ce8)
 
-NPM start for front end and backend folders after npm install for both front end and backend folders , navigate to backend, frontend, hit npm start
+NPM start for front end and backend folders after npm install
 
-
-🔐 Add this to your README.md
-md
-Copy
-Edit
 ## 🔧 Backend Environment Configuration
 
 To run the backend locally, you’ll need to set up your own `.env` file inside the `backend/` directory.
