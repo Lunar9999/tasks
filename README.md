@@ -1,3 +1,5 @@
+![Screenshot 2025-04-01 000410](https://github.com/user-attachments/assets/cb1e65a5-9818-4138-bb23-776168fbbe11)
+
 NPM start for front end and backend folders after npm install for both front end and backend folders , navigate to backend, frontend, hit npm start
 
 
